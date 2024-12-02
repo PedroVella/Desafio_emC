@@ -51,7 +51,9 @@ O programa apresenta as seguintes opções:
 Este desafio foi fundamental para consolidar os seguintes conceitos:
 
 Manipulação de estruturas em C.
+
 Criação de menus interativos.
+
 Uso de laços de repetição e condicionais.
 
 ## 🤝 Contribuições
