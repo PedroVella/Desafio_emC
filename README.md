@@ -1,6 +1,6 @@
 # 🎥 Desafio de Programação em C
 
-Bem-vindo(a) ao repositório do **Desafio de Programação em C, desenvolvido como parte da minha prática de **lógica de programação** e conhecimentos adquiridos no **segundo semestre da faculdade**.
+Bem-vindo(a) ao repositório do **Desafio de Programação em C**, desenvolvido como parte da minha prática de **lógica de programação** e conhecimentos adquiridos no **segundo semestre da faculdade**.
 
 ## 📝 Sobre o Desafio
 
